@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cIRnGSkuEa/GxOqA6TSAmvr9cmtHBnoVK8t/RNEY2w06I8Sl1X11nTDmL70Mib52SKwxgjE2l4QwHwbxg0C+KA==",
+  "success": true,
+  "projectFilePath": "E:\\repos\\ManagerDashBoard\\ManagerDashBoard\\ManagerDashBoard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gf\\.nuget\\packages\\netcore5.0.microsoft.expression.drawing\\1.0.0\\netcore5.0.microsoft.expression.drawing.1.0.0.nupkg.sha512",
+    "C:\\Users\\gf\\.nuget\\packages\\unofficial.multiplatform.microsoft.expression.drawing\\1.0.0\\unofficial.multiplatform.microsoft.expression.drawing.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

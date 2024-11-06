@@ -1,0 +1,136 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\applogoexample.png" />
+    <None Remove="Assets\apps.png" />
+    <None Remove="Assets\bell.png" />
+    <None Remove="Assets\bell_16.png" />
+    <None Remove="Assets\bell_64.png" />
+    <None Remove="Assets\calendarcolor.png" />
+    <None Remove="Assets\calendarwhite.png" />
+    <None Remove="Assets\cartcolor.png" />
+    <None Remove="Assets\cartwhite.png" />
+    <None Remove="Assets\chatcolor.png" />
+    <None Remove="Assets\chatwhite.png" />
+    <None Remove="Assets\closecolor.png" />
+    <None Remove="Assets\closewhite.png" />
+    <None Remove="Assets\cloud.png" />
+    <None Remove="Assets\contacts.png" />
+    <None Remove="Assets\desk.jpg" />
+    <None Remove="Assets\desk2.jpg" />
+    <None Remove="Assets\document.png" />
+    <None Remove="Assets\downloadsfolder.png" />
+    <None Remove="Assets\dropbox.png" />
+    <None Remove="Assets\folder.png" />
+    <None Remove="Assets\googledrive.png" />
+    <None Remove="Assets\image.png" />
+    <None Remove="Assets\image1.jpg" />
+    <None Remove="Assets\image2.jpg" />
+    <None Remove="Assets\image3.jpg" />
+    <None Remove="Assets\image4.jpg" />
+    <None Remove="Assets\image5.jpg" />
+    <None Remove="Assets\image6.jpg" />
+    <None Remove="Assets\image6.png" />
+    <None Remove="Assets\image7.jpg" />
+    <None Remove="Assets\image8.jpg" />
+    <None Remove="Assets\image9.jpg" />
+    <None Remove="Assets\left.png" />
+    <None Remove="Assets\logoutwhite.png" />
+    <None Remove="Assets\mailcolor.png" />
+    <None Remove="Assets\mailwhite.png" />
+    <None Remove="Assets\mmc.png" />
+    <None Remove="Assets\music.png" />
+    <None Remove="Assets\newdocument.png" />
+    <None Remove="Assets\notifcolor.png" />
+    <None Remove="Assets\notifwhite.png" />
+    <None Remove="Assets\onedrive.png" />
+    <None Remove="Assets\play.png" />
+    <None Remove="Assets\plus.png" />
+    <None Remove="Assets\profilewhite.png" />
+    <None Remove="Assets\profolder.png" />
+    <None Remove="Assets\recent.png" />
+    <None Remove="Assets\right.png" />
+    <None Remove="Assets\right2.png" />
+    <None Remove="Assets\search.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <COMReference Include="VBScript_RegExp_55">
+      <WrapperTool>tlbimp</WrapperTool>
+      <VersionMinor>5</VersionMinor>
+      <VersionMajor>5</VersionMajor>
+      <Guid>3f4daca7-160d-11d2-a8e9-00104b365c9f</Guid>
+      <Lcid>0</Lcid>
+      <Isolated>false</Isolated>
+      <EmbedInteropTypes>true</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NetCore5.0.Microsoft.Expression.Drawing" Version="1.0.0" />
+    <PackageReference Include="Unofficial.MultiPlatform.Microsoft.Expression.Drawing" Version="1.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\applogoexample.png" />
+    <Resource Include="Assets\apps.png" />
+    <Resource Include="Assets\bell.png" />
+    <Resource Include="Assets\bell_16.png" />
+    <Resource Include="Assets\bell_64.png" />
+    <Resource Include="Assets\calendarcolor.png" />
+    <Resource Include="Assets\calendarwhite.png" />
+    <Resource Include="Assets\cartcolor.png" />
+    <Resource Include="Assets\cartwhite.png" />
+    <Resource Include="Assets\chatcolor.png" />
+    <Resource Include="Assets\chatwhite.png" />
+    <Resource Include="Assets\closecolor.png" />
+    <Resource Include="Assets\closewhite.png" />
+    <Resource Include="Assets\cloud.png" />
+    <Resource Include="Assets\contacts.png" />
+    <Resource Include="Assets\desk.jpg" />
+    <Resource Include="Assets\desk2.jpg" />
+    <Resource Include="Assets\document.png" />
+    <Resource Include="Assets\downloadsfolder.png" />
+    <Resource Include="Assets\dropbox.png" />
+    <Resource Include="Assets\folder.png" />
+    <Resource Include="Assets\googledrive.png" />
+    <Resource Include="Assets\image.png" />
+    <Resource Include="Assets\image1.jpg" />
+    <Resource Include="Assets\image2.jpg" />
+    <Resource Include="Assets\image3.jpg" />
+    <Resource Include="Assets\image4.jpg" />
+    <Resource Include="Assets\image5.jpg" />
+    <Resource Include="Assets\image6.jpg" />
+    <Resource Include="Assets\image6.png" />
+    <Resource Include="Assets\image7.jpg" />
+    <Resource Include="Assets\image8.jpg" />
+    <Resource Include="Assets\image9.jpg" />
+    <Resource Include="Assets\left.png" />
+    <Resource Include="Assets\logoutwhite.png" />
+    <Resource Include="Assets\mailcolor.png" />
+    <Resource Include="Assets\mailwhite.png" />
+    <Resource Include="Assets\mmc.png" />
+    <Resource Include="Assets\music.png" />
+    <Resource Include="Assets\newdocument.png" />
+    <Resource Include="Assets\notifcolor.png" />
+    <Resource Include="Assets\notifwhite.png" />
+    <Resource Include="Assets\onedrive.png" />
+    <Resource Include="Assets\play.png" />
+    <Resource Include="Assets\plus.png" />
+    <Resource Include="Assets\profilewhite.png" />
+    <Resource Include="Assets\profolder.png" />
+    <Resource Include="Assets\recent.png" />
+    <Resource Include="Assets\right.png" />
+    <Resource Include="Assets\right2.png" />
+    <Resource Include="Assets\search.png" />
+  </ItemGroup>
+
+</Project>
