@@ -57,3 +57,6 @@ E:\repos\ManagerDashBoard\ManagerDashBoard\obj\Debug\net8.0-windows\ManagerDashB
 E:\repos\ManagerDashBoard\ManagerDashBoard\obj\Debug\net8.0-windows\Graphics\CircularProgressBar.g.cs
 E:\repos\ManagerDashBoard\ManagerDashBoard\obj\Debug\net8.0-windows\Graphics\CircularProgressBar.baml
 E:\repos\ManagerDashBoard\ManagerDashBoard\obj\Debug\net8.0-windows\ManagerDashBoard.csproj.CopyComplete
+E:\repos\ManagerDashBoard\ManagerDashBoard\obj\Debug\net8.0-windows\ManagerDashBoard.sourcelink.json
+E:\repos\ManagerDashBoard\ManagerDashBoard\obj\Debug\net8.0-windows\Graphics\imageButtons.g.cs
+E:\repos\ManagerDashBoard\ManagerDashBoard\obj\Debug\net8.0-windows\Graphics\imageButtons.baml
