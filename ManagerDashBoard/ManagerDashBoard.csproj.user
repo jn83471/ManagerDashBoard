@@ -13,6 +13,9 @@
     <Compile Update="Graphics\CircularProgressBar.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Graphics\FileListControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Graphics\imageButtons.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -28,6 +31,9 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Graphics\CircularProgressBar.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Graphics\FileListControl.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Graphics\imageButtons.xaml">

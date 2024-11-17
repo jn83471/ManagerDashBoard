@@ -60,3 +60,5 @@ E:\repos\ManagerDashBoard\ManagerDashBoard\obj\Debug\net8.0-windows\ManagerDashB
 E:\repos\ManagerDashBoard\ManagerDashBoard\obj\Debug\net8.0-windows\ManagerDashBoard.sourcelink.json
 E:\repos\ManagerDashBoard\ManagerDashBoard\obj\Debug\net8.0-windows\Graphics\imageButtons.g.cs
 E:\repos\ManagerDashBoard\ManagerDashBoard\obj\Debug\net8.0-windows\Graphics\imageButtons.baml
+E:\repos\ManagerDashBoard\ManagerDashBoard\obj\Debug\net8.0-windows\Graphics\FileListControl.g.cs
+E:\repos\ManagerDashBoard\ManagerDashBoard\obj\Debug\net8.0-windows\Graphics\FileListControl.baml
